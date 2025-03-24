@@ -37,8 +37,8 @@
       ]
     },
     "D:\\Project\\ProjectForGit\\web3-wtf-payload\\Wtf-Solidity-temp\\contracts\\Lock.sol": {
-      "lastModificationDate": 1742800540588,
-      "contentHash": "e1eeb111b819610c8668349692e8b2ae",
+      "lastModificationDate": 1742808256068,
+      "contentHash": "8dc42dad4acedaf193460d687b405b9b",
       "sourceName": "contracts/Lock.sol",
       "solcConfig": {
         "version": "0.8.19",
@@ -69,6 +69,41 @@
       ],
       "artifacts": [
         "Lock"
+      ]
+    },
+    "D:\\Project\\ProjectForGit\\web3-wtf-payload\\Wtf-Solidity-temp\\contracts\\FunctionTypes.sol": {
+      "lastModificationDate": 1742807839242,
+      "contentHash": "217cbf2b164d4cacfa4ab04768f4d857",
+      "sourceName": "contracts/FunctionTypes.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "FunctionTypes"
       ]
     }
   }

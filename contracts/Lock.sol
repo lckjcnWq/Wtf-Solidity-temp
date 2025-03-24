@@ -5,9 +5,9 @@ contract Lock {
     uint public unlockTime;
     address payable public owner;
 
-    address public immutable _address = 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
+    address public  _address = 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
 
-    address payable public immutable _address2 = payable(_address);
+    address public  _address2 = payable(_address);
 
     constructor(uint _unlockTime) payable {
         require(
