@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\Project\\ProjectForGit\\web3-wtf-payload\\Wtf-Solidity-temp\\contracts\\Counter.sol": {
+      "lastModificationDate": 1742800451586,
+      "contentHash": "38bd796e33f8d307b4cdb13397814528",
+      "sourceName": "contracts/Counter.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "Counter"
+      ]
+    },
+    "D:\\Project\\ProjectForGit\\web3-wtf-payload\\Wtf-Solidity-temp\\contracts\\Lock.sol": {
+      "lastModificationDate": 1742800540588,
+      "contentHash": "e1eeb111b819610c8668349692e8b2ae",
+      "sourceName": "contracts/Lock.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "Lock"
+      ]
+    }
+  }
+}
