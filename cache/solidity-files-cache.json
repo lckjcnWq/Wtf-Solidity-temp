@@ -105,6 +105,41 @@
       "artifacts": [
         "FunctionTypes"
       ]
+    },
+    "D:\\Project\\ProjectForGit\\web3-wtf-payload\\Wtf-Solidity-temp\\contracts\\Return.sol": {
+      "lastModificationDate": 1742866799557,
+      "contentHash": "698b8c39b1ca0d6b537bd0b6cf22bc42",
+      "sourceName": "contracts/Return.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "Return"
+      ]
     }
   }
 }
