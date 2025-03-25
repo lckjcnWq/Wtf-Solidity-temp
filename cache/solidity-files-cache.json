@@ -176,6 +176,77 @@
         "DataStorage",
         "Variables"
       ]
+    },
+    "D:\\Project\\ProjectForGit\\web3-wtf-payload\\Wtf-Solidity-temp\\contracts\\ArrayAndStruct.sol": {
+      "lastModificationDate": 1742885557104,
+      "contentHash": "a60d906e3ae15cbffe739bbe1c753c64",
+      "sourceName": "contracts/ArrayAndStruct.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "ArrayAndStruct",
+        "StructTypes"
+      ]
+    },
+    "D:\\Project\\ProjectForGit\\web3-wtf-payload\\Wtf-Solidity-temp\\contracts\\Mapping.sol": {
+      "lastModificationDate": 1742886117627,
+      "contentHash": "856aeded64fa7fff5b11ed13057c308a",
+      "sourceName": "contracts/Mapping.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "Mapping"
+      ]
     }
   }
 }
