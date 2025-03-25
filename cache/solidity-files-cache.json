@@ -107,8 +107,8 @@
       ]
     },
     "D:\\Project\\ProjectForGit\\web3-wtf-payload\\Wtf-Solidity-temp\\contracts\\Return.sol": {
-      "lastModificationDate": 1742866799557,
-      "contentHash": "698b8c39b1ca0d6b537bd0b6cf22bc42",
+      "lastModificationDate": 1742869389675,
+      "contentHash": "b6e755fd4dfb61771b5a75a961c5e47f",
       "sourceName": "contracts/Return.sol",
       "solcConfig": {
         "version": "0.8.19",
@@ -139,6 +139,42 @@
       ],
       "artifacts": [
         "Return"
+      ]
+    },
+    "D:\\Project\\ProjectForGit\\web3-wtf-payload\\Wtf-Solidity-temp\\contracts\\DataStorage.sol": {
+      "lastModificationDate": 1742873228107,
+      "contentHash": "a8708ca22b67bee7b20c788696988e70",
+      "sourceName": "contracts/DataStorage.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "DataStorage",
+        "Variables"
       ]
     }
   }
