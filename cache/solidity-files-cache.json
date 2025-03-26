@@ -247,6 +247,41 @@
       "artifacts": [
         "Mapping"
       ]
+    },
+    "D:\\Project\\ProjectForGit\\web3-wtf-payload\\Wtf-Solidity-temp\\contracts\\Modifier.sol": {
+      "lastModificationDate": 1742952184639,
+      "contentHash": "7131211cfa81f87ee5cd7c70909233a0",
+      "sourceName": "contracts/Modifier.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "Modifier"
+      ]
     }
   }
 }
