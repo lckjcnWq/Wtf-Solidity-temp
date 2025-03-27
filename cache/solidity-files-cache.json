@@ -282,6 +282,114 @@
       "artifacts": [
         "Modifier"
       ]
+    },
+    "D:\\Project\\ProjectForGit\\web3-wtf-payload\\Wtf-Solidity-temp\\contracts\\event.sol": {
+      "lastModificationDate": 1742955951068,
+      "contentHash": "95467df20a6dc41d65d7dd92742918fa",
+      "sourceName": "contracts/event.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "Event"
+      ]
+    },
+    "D:\\Project\\ProjectForGit\\web3-wtf-payload\\Wtf-Solidity-temp\\contracts\\Inheritance\\Inheritance.sol": {
+      "lastModificationDate": 1743043463371,
+      "contentHash": "419d6db604cac0d6637134d149443b5d",
+      "sourceName": "contracts/Inheritance/Inheritance.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "Baba",
+        "Erzi",
+        "Yeye"
+      ]
+    },
+    "D:\\Project\\ProjectForGit\\web3-wtf-payload\\Wtf-Solidity-temp\\contracts\\Inheritance\\ModifierInheritance.sol": {
+      "lastModificationDate": 1743043876020,
+      "contentHash": "df60b3a59047fd2b372016eb442f2819",
+      "sourceName": "contracts/Inheritance/ModifierInheritance.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "Base1",
+        "Identifier"
+      ]
     }
   }
 }
