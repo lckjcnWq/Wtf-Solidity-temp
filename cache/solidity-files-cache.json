@@ -392,8 +392,8 @@
       ]
     },
     "D:\\Project\\ProjectForGit\\web3-wtf-payload\\Wtf-Solidity-temp\\contracts\\Call.sol": {
-      "lastModificationDate": 1743144700009,
-      "contentHash": "505886b6d73ca6b97202dd46ba399dfd",
+      "lastModificationDate": 1743146243710,
+      "contentHash": "7ca421fb45c231d7a041ac6ec9362956",
       "sourceName": "contracts/Call.sol",
       "solcConfig": {
         "version": "0.8.19",
@@ -424,7 +424,7 @@
       ],
       "artifacts": [
         "Call",
-        "OtherContract"
+        "OtherContractX"
       ]
     },
     "D:\\Project\\ProjectForGit\\web3-wtf-payload\\Wtf-Solidity-temp\\contracts\\CallContract.sol": {

@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
-contract OtherContract {
+contract OtherContractX {
     uint256 private _x = 0; // 状态变量x
     // 收到eth事件，记录amount和gas
     event Log(uint amount, uint gas);
