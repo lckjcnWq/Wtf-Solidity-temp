@@ -1,7 +1,12 @@
 ---
 description: 
-globs: *.java
+globs: 
 alwaysApply: false
+---
+---
+description: 
+globs: *.java
+alwaysApply: true
 ---
 ---
 description: 
